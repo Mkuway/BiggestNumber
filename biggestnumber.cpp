@@ -25,7 +25,7 @@ int main()
  }
  else
  {
-  std::cout<<"Of those two numbers, the biggest is: ";
+  std::cout<<"Of those numbers, the biggest is: ";
   std::cout<<number1;
  }
   //print out the variable representing the biggest number
